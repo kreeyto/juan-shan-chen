@@ -548,7 +548,7 @@ int main(int argc, char** argv)
 
     
 generateSimulationInfoFile(
-        "000",        
+        "000/",        
         "000",        
         "D2Q9",     
         nx, ny,
